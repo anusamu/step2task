@@ -1,5 +1,8 @@
 body{
     background-color: white;
+    
+    background-image: url(img/port4_Cover_15-1.jpg);
+    background-size:cover
 }
 
 
@@ -19,5 +22,9 @@ body{
     width: 95%;
     /* background-color:; */
     border-radius: 8px;
+    opacity: 0.9;
 }
+
+
+
 
